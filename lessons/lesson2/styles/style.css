@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 0 10px;
+    padding-bottom: 100px;
+}
+
+/* div{
+    color: blueviolet;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif; */
+                                    /* border: 2px dotted gold;  */
+    /* border-width: 20px;
+    border-style: groove;
+    border-color: aqua;
+    margin: 20px;
+    padding:5px ;
+} */
+
+.hobby_tittle{
+    color: rgb(12, 95, 248);
+}
+
+h1,h2{
+text-align: center;
+}
+
+h1{
+    margin-bottom: 80px;
+}
+
+.post_block {
+    border: 2px solid rgb(44, 122, 224);
+    padding: 10px 0 5px 5px;
+    margin: 20px 0;
+    width: 700px; 
+    /* height: 300; */ 
+    background-color: rgb(152, 165, 165);
+
+}
+
+.post_block p{
+font-size: 24px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+
+.post_block a {
+    /* text-decoration: none; */
+    color: green;
+    font-size: 28px;
+    display: block;
+    text-align: center;
+}
+
+
+.post_block img {
+    width: 350px;
+    display: block;
+    
+    
+}
+
+link{
+    display: block;
+    margin-top: 5px;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.link img{
+    width: 50px;
+}
+
+/* a{
+    
+} */
