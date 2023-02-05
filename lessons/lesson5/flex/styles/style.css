@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/* body{
+    display: flex;
+} */
+
+div{
+    border: 2px solid rgb(24, 240, 17);
+    padding: 10px;
+    height: 300px;
+          
+    
+    /* max-width: 70%;
+    margin: 20px auto; */
+
+    /* vertical-align: bottom; */
+
+    /* margin:auto; */
+
+    display: flex;
+
+    /* justify-content: center;  */
+    /* justify-content: flex-start;    */
+    /* justify-content: start; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    flex-direction: column-reverse;
+
+
+    /* align-items:stretch  */
+    /* align-items: flex-start; */
+    align-items: end;
+
+}
+
+p{
+    border: 1px solid black;
+    /* display: inline-block; */
+    /* vertical-align: bottom; */
+    /* text-align: end; */
+    margin: 1%;
+}
+
+p:nth-child(1){
+    width: 100px;
+    height: 100px;
+}
+p:nth-child(2){
+    width: 100px;
+    height: 100px;
+}
+p:nth-child(3){
+    width: 60px;
+    height: 60px;
+}
+
+p:nth-child(4){
+    width: 100px;
+    height: 60px;
+}
+
+p:nth-child(5){
+    width: 60px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div p:nth-child(2){
+    width: 100px;
+    height: 100px;
+}
+
+div p:nth-child(3){
+    width: 60px;
+    height: 60px;
+}
+
+div p:nth-child(4){
+    width: 100px;
+    height: 60px;
+}
+
+div p:nth-child(5){
+    width: 60px;
+    height: 100px;
+} */

@@ -1,0 +1,60 @@
+/* html{
+    font-size: 16px;
+} */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* p{
+    border: 1px solid black;
+}
+
+.pr1{
+    width: 30%;
+    font-size: 1.1em;
+}
+.pr2{
+    width: 500px;
+}
+
+li{
+   font-size: 0.8rem; 
+}
+div{
+    border: 2px solid black; 
+    margin-bottom: 5px;
+}
+.d1{
+    width: 100vw;
+    
+}
+.d2{
+    width: 500px;
+    
+}
+.d3{
+    width: 100%;
+   
+}
+
+
+.main{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    background-color: aqua;
+    
+} */
+div{
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+    padding: 30px 5%;
+    /* margin: 40px 20%; */
+    background-color: aqua;
+    max-width: 70%;
+    margin: 20px auto;
+}
